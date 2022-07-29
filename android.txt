@@ -1,0 +1,2 @@
+1. android studio 다운
+2. https://www.samsungsvc.co.kr/download 에서 통합 USB 드라이버 설치
