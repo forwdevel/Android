@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test6</string>
+    <string name="name_kor">name_kor</string>
+    <string name="name_eng">My english name</string>
+</resources>
