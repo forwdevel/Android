@@ -8,7 +8,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btnExit"
-        android:text="선택"
+        android:text="@string/select_btn"
         android:textSize="24dp"
         android:textStyle="bold"
         android:onClick="onSelectButtonClicked"/>
@@ -26,7 +26,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/radio01"
-            android:text="남성"
+            android:text="@string/radio_sel1"
             android:textColor="#ff55aaff"
             android:textSize="24dp"
             android:textStyle="bold"/>
@@ -35,7 +35,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/radio02"
-            android:text="여성"
+            android:text="@string/radio_sel2"
             android:textColor="#ff55aaff"
             android:textSize="24dp"
             android:textStyle="bold"/>

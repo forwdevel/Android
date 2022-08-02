@@ -6,4 +6,5 @@
     <string name="msg_change2">You selected item "Woman".</string>
     <string name="msg_button1">Item "Man" is selected.</string>
     <string name="msg_button2">Item "Woman" is selected.</string>
+    <string name="select_btn">Select</string>
 </resources>

@@ -6,4 +6,5 @@
     <string name="msg_change2">여성을 선택하였습니다.</string>
     <string name="msg_button1">남성이 선택되어 있습니다.</string>
     <string name="msg_button2">여성이 선택되어 있습니다.</string>
+    <string name="select_btn">선택</string>
 </resources>
